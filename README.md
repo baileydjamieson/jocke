@@ -19,3 +19,5 @@ Features
 - **Authentication**: Sessions & bcrypt password hashing
 - **Streaming**: Planned integration with WebRTC / HLS
 - **File Storage**: Git LFS for large media files
+
+MIT License.
